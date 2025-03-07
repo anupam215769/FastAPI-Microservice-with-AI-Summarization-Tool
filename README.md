@@ -2,6 +2,9 @@
 
 A production-ready microservice built with FastAPI for text summarization using an open-source AI model (DistilBART).
 
+## Demo
+[Video](./assets/demo.mkv)
+
 ## Features
 
 - **Query Endpoint** (`GET /query`):
