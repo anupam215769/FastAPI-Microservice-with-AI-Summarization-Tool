@@ -3,7 +3,7 @@
 A production-ready microservice built with FastAPI for text summarization using an open-source AI model (DistilBART).
 
 ## Demo
-[Video](./assets/demo.mkv)
+[Download Video](https://github.com/anupam215769/FastAPI-Microservice-with-AI-Summarization-Tool/raw/refs/heads/main/assets/demo.mkv)
 
 ## Features
 
